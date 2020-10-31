@@ -1,0 +1,19 @@
+{
+  "name": "typescript-starter",
+  "version": "1.0.0",
+  "description": "Minimalistic starter with typescript and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "webpack",
+    "starter"
+  ],
+  "author": "Jakub Tašek",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
